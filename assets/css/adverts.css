@@ -1,0 +1,24 @@
+.ad {
+  margin: 0px auto 40px auto;
+  max-width: 980px;
+  max-height: 120px;
+  display:block;
+  background-image: url("/adverts/980x120.png");
+  background-size: cover;
+  background-position: left center;
+  border: 1px solid #333;
+}
+.ad .container {
+  clear: both;
+  padding: 1px;
+}
+
+.ad .container a {
+  display: block;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.ad .container a .logo {
+    height: 120px;
+}
